@@ -1,0 +1,18 @@
+<universities>
+  <university>
+    <name>UCSB</name>
+    <location>Santa Barbara, CA</location>
+  </university>
+  <university>
+    <name>University of Texas at Arlington</name>
+    <location>Arlington, TX</location>
+  </university>
+  <university>
+    <name>USM</name>
+    <location>Hattiesburg, MS</location>
+  </university>
+  <university>
+    <name>Baylor</name>
+    <location>Waco, TX</location>
+  </university>
+</universities>

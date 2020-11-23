@@ -1,0 +1,4 @@
+C:\Users\cnyaojf\source\repos\Xml\Debug\xml2html.exe
+C:\Users\cnyaojf\source\repos\Xml\Debug\xml2html.pdb
+C:\Users\cnyaojf\source\repos\xml2html\Debug\xml2html.exe
+C:\Users\cnyaojf\source\repos\xml2html\Debug\xml2html.pdb
